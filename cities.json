@@ -3,7 +3,7 @@
         "id": "abidjan_ivory-coast",
         "name": "Abidjan",
         "region": "africa",
-        "country": "ivory-coast",
+        "country": "Ivory Coast",
         "bbox": {
             "top": "5.523",
             "left": "-4.183",
@@ -15,7 +15,7 @@
         "id": "abuja_nigeria",
         "name": "Abuja",
         "region": "africa",
-        "country": "nigeria",
+        "country": "Nigeria",
         "bbox": {
             "top": "9.246",
             "left": "7.248",
@@ -27,7 +27,7 @@
         "id": "accra_ghana",
         "name": "Accra",
         "region": "africa",
-        "country": "ghana",
+        "country": "Ghana",
         "bbox": {
             "top": "5.675",
             "left": "-0.437",
@@ -39,7 +39,7 @@
         "id": "addis-abeba_ethiopia",
         "name": "Addis-Abeba",
         "region": "africa",
-        "country": "ethiopia",
+        "country": "Ethiopia",
         "bbox": {
             "top": "9.077",
             "left": "38.651",
@@ -51,7 +51,7 @@
         "id": "alexandria_egypt",
         "name": "Alexandria",
         "region": "africa",
-        "country": "egypt",
+        "country": "Egypt",
         "bbox": {
             "top": "31.432",
             "left": "29.689",
@@ -63,7 +63,7 @@
         "id": "algiers_algeria",
         "name": "Algiers",
         "region": "africa",
-        "country": "algeria",
+        "country": "Algeria",
         "bbox": {
             "top": "36.762",
             "left": "3.026",
@@ -75,7 +75,7 @@
         "id": "cairo_egypt",
         "name": "Cairo",
         "region": "africa",
-        "country": "egypt",
+        "country": "Egypt",
         "bbox": {
             "top": "30.564",
             "left": "30.897",
@@ -87,7 +87,7 @@
         "id": "cape-town_south-africa",
         "name": "Cape Town",
         "region": "africa",
-        "country": "south-africa",
+        "country": "South Africa",
         "bbox": {
             "top": "-33.471",
             "left": "18.302",
@@ -99,7 +99,7 @@
         "id": "casablanca_morocco",
         "name": "Casablanca",
         "region": "africa",
-        "country": "morocco",
+        "country": "Morocco",
         "bbox": {
             "top": "33.652",
             "left": "-7.737",
@@ -111,7 +111,7 @@
         "id": "dar-es-salaam_tanzania",
         "name": "Dar es Salaam",
         "region": "africa",
-        "country": "tanzania",
+        "country": "Tanzania",
         "bbox": {
             "top": "-6.502",
             "left": "38.894",
@@ -123,7 +123,7 @@
         "id": "johannesburg_south-africa",
         "name": "Johannesburg",
         "region": "africa",
-        "country": "south-africa",
+        "country": "South Africa",
         "bbox": {
             "top": "-25.834",
             "left": "27.537",
@@ -135,7 +135,7 @@
         "id": "lagos_nigeria",
         "name": "Lagos",
         "region": "africa",
-        "country": "nigeria",
+        "country": "Nigeria",
         "bbox": {
             "top": "6.910",
             "left": "2.889",
@@ -147,7 +147,7 @@
         "id": "luanda_angola",
         "name": "Luanda",
         "region": "africa",
-        "country": "angola",
+        "country": "Angola",
         "bbox": {
             "top": "-8.729",
             "left": "13.086",
@@ -159,7 +159,7 @@
         "id": "nairobi_kenya",
         "name": "Nairobi",
         "region": "africa",
-        "country": "kenya",
+        "country": "Kenya",
         "bbox": {
             "top": "-0.965",
             "left": "36.582",
@@ -171,7 +171,7 @@
         "id": "tunis_tunisia",
         "name": "Tunis",
         "region": "africa",
-        "country": "tunisia",
+        "country": "Tunisia",
         "bbox": {
             "top": "37.008",
             "left": "9.978",
@@ -184,7 +184,7 @@
         "id": "agra_india",
         "name": "Agra",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "27.259",
             "left": "77.886",
@@ -196,7 +196,7 @@
         "id": "ahmedabad_india",
         "name": "Ahmedabad",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "23.201",
             "left": "72.364",
@@ -208,7 +208,7 @@
         "id": "almaty_kazakhstan",
         "name": "Almaty",
         "region": "asia",
-        "country": "kazakhstan",
+        "country": "Kazakhstan",
         "bbox": {
             "top": "43.549",
             "left": "76.575",
@@ -220,7 +220,7 @@
         "id": "ankara_turkey",
         "name": "Ankara",
         "region": "asia",
-        "country": "turkey",
+        "country": "Turkey",
         "bbox": {
             "top": "40.372",
             "left": "32.105",
@@ -232,7 +232,7 @@
         "id": "astana_kazakhstan",
         "name": "Astana",
         "region": "asia",
-        "country": "kazakhstan",
+        "country": "Kazakhstan",
         "bbox": {
             "top": "51.290",
             "left": "71.212",
@@ -244,7 +244,7 @@
         "id": "bangkok_thailand",
         "name": "Bangkok",
         "region": "asia",
-        "country": "thailand",
+        "country": "Thailand",
         "bbox": {
             "top": "15.019",
             "left": "99.569",
@@ -256,7 +256,7 @@
         "id": "beijing_china",
         "name": "Beijing",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "40.426",
             "left": "115.686",
@@ -268,7 +268,7 @@
         "id": "bengaluru_india",
         "name": "Bengaluru",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "13.230",
             "left": "77.350",
@@ -280,7 +280,7 @@
         "id": "chengdu_china",
         "name": "Chengdu",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "30.987",
             "left": "103.564",
@@ -292,7 +292,7 @@
         "id": "chennai_india",
         "name": "Chennai",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "13.300",
             "left": "79.900",
@@ -304,7 +304,7 @@
         "id": "chongqing_china",
         "name": "Chongqing",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "32.217",
             "left": "105.283",
@@ -316,7 +316,7 @@
         "id": "dhaka_bangladesh",
         "name": "Dhaka",
         "region": "asia",
-        "country": "bangladesh",
+        "country": "Bangladesh",
         "bbox": {
             "top": "24.006",
             "left": "89.998",
@@ -328,7 +328,7 @@
         "id": "guangzhou_china",
         "name": "Guangzhou",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "23.981",
             "left": "112.181",
@@ -340,7 +340,7 @@
         "id": "hangzhou_china",
         "name": "Hangzhou",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "30.296",
             "left": "120.100",
@@ -352,7 +352,7 @@
         "id": "hanoi_vietnam",
         "name": "Hanoi",
         "region": "asia",
-        "country": "vietnam",
+        "country": "Vietnam",
         "bbox": {
             "top": "21.098",
             "left": "105.742",
@@ -364,7 +364,7 @@
         "id": "ho-chi-minh-city_vietnam",
         "name": "Ho Chi Minh City",
         "region": "asia",
-        "country": "vietnam",
+        "country": "Vietnam",
         "bbox": {
             "top": "11.021",
             "left": "106.458",
@@ -376,7 +376,7 @@
         "id": "hong-kong_china",
         "name": "Hong Kong",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "23.488",
             "left": "112.780",
@@ -388,7 +388,7 @@
         "id": "hyderabad_india",
         "name": "Hyderabad",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "17.630",
             "left": "78.216",
@@ -400,7 +400,7 @@
         "id": "karachi_pakistan",
         "name": "Karachi",
         "region": "asia",
-        "country": "pakistan",
+        "country": "Pakistan",
         "bbox": {
             "top": "25.593",
             "left": "66.401",
@@ -412,7 +412,7 @@
         "id": "kolkata_india",
         "name": "Kolkata",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "23.106",
             "left": "87.751",
@@ -424,7 +424,7 @@
         "id": "kuala-lumpur_malaysia",
         "name": "Kuala Lumpur",
         "region": "asia",
-        "country": "malaysia",
+        "country": "Malaysia",
         "bbox": {
             "top": "3.407",
             "left": "101.425",
@@ -436,7 +436,7 @@
         "id": "manila_philippines",
         "name": "Manila",
         "region": "asia",
-        "country": "philippines",
+        "country": "Philippines",
         "bbox": {
             "top": "14.900",
             "left": "120.885",
@@ -448,7 +448,7 @@
         "id": "moscow_russia",
         "name": "Moscow",
         "region": "asia",
-        "country": "russia",
+        "country": "Russia",
         "bbox": {
             "top": "56.200",
             "left": "36.800",
@@ -460,7 +460,7 @@
         "id": "mumbai_india",
         "name": "Mumbai",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "19.500",
             "left": "72.415",
@@ -472,7 +472,7 @@
         "id": "new-delhi_india",
         "name": "New Delhi",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "28.969",
             "left": "76.692",
@@ -484,7 +484,7 @@
         "id": "nizhniy-novgorod_russia",
         "name": "Nizhniy Novgorod",
         "region": "asia",
-        "country": "russia",
+        "country": "Russia",
         "bbox": {
             "top": "56.400",
             "left": "43.718",
@@ -496,7 +496,7 @@
         "id": "perm_russia",
         "name": "Perm",
         "region": "asia",
-        "country": "russia",
+        "country": "Russia",
         "bbox": {
             "top": "58.182",
             "left": "55.795",
@@ -508,7 +508,7 @@
         "id": "pune_india",
         "name": "Pune",
         "region": "asia",
-        "country": "india",
+        "country": "India",
         "bbox": {
             "top": "18.771",
             "left": "73.603",
@@ -520,7 +520,7 @@
         "id": "rangoon_myanmar",
         "name": "Rangoon",
         "region": "asia",
-        "country": "myanmar",
+        "country": "Myanmar",
         "bbox": {
             "top": "17.729",
             "left": "95.257",
@@ -532,7 +532,7 @@
         "id": "saint-petersburg_russia",
         "name": "Saint Petersburg",
         "region": "asia",
-        "country": "russia",
+        "country": "Russia",
         "bbox": {
             "top": "60.345",
             "left": "29.168",
@@ -544,7 +544,7 @@
         "id": "samara-tolyatti_russia",
         "name": "Samara Tolyatti",
         "region": "asia",
-        "country": "russia",
+        "country": "Russia",
         "bbox": {
             "top": "54.037",
             "left": "48.500",
@@ -556,7 +556,7 @@
         "id": "seoul_south-korea",
         "name": "Seoul",
         "region": "asia",
-        "country": "south-korea",
+        "country": "South Korea",
         "bbox": {
             "top": "37.980",
             "left": "126.064",
@@ -568,7 +568,7 @@
         "id": "shanghai_china",
         "name": "Shanghai",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "32.472",
             "left": "118.887",
@@ -580,7 +580,7 @@
         "id": "shenzhen_china",
         "name": "Shenzhen",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "22.808",
             "left": "113.755",
@@ -592,7 +592,7 @@
         "id": "singapore",
         "name": "singapore",
         "region": "asia",
-        "country": "singapore",
+        "country": "Singapore",
         "bbox": {
             "top": "1.823",
             "left": "103.062",
@@ -604,7 +604,7 @@
         "id": "taipei_taiwan",
         "name": "Taipei",
         "region": "asia",
-        "country": "taiwan",
+        "country": "Taiwan",
         "bbox": {
             "top": "25.209",
             "left": "121.346",
@@ -616,7 +616,7 @@
         "id": "tianjin_china",
         "name": "Tianjin",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "39.779",
             "left": "116.528",
@@ -628,7 +628,7 @@
         "id": "tokyo_japan",
         "name": "Tokyo",
         "region": "asia",
-        "country": "japan",
+        "country": "Japan",
         "bbox": {
             "top": "36.558",
             "left": "138.779",
@@ -640,7 +640,7 @@
         "id": "ulaanbaatar_mongolia",
         "name": "Ulaanbaatar",
         "region": "asia",
-        "country": "mongolia",
+        "country": "Mongolia",
         "bbox": {
             "top": "48.285",
             "left": "106.344",
@@ -652,7 +652,7 @@
         "id": "wuhan_china",
         "name": "Wuhan",
         "region": "asia",
-        "country": "china",
+        "country": "China",
         "bbox": {
             "top": "30.903",
             "left": "113.745",
@@ -665,7 +665,7 @@
         "id": "bratislava_slovakia",
         "name": "Bratislava",
         "region": "eastern_europe",
-        "country": "slovakia",
+        "country": "Slovakia",
         "bbox": {
             "top": "48.295",
             "left": "16.955",
@@ -677,7 +677,7 @@
         "id": "bucharest_romania",
         "name": "Bucharest",
         "region": "eastern_europe",
-        "country": "romania",
+        "country": "Romania",
         "bbox": {
             "top": "44.729",
             "left": "25.542",
@@ -689,7 +689,7 @@
         "id": "budapest_hungary",
         "name": "Budapest",
         "region": "eastern_europe",
-        "country": "hungary",
+        "country": "Hungary",
         "bbox": {
             "top": "47.861",
             "left": "18.347",
@@ -701,7 +701,7 @@
         "id": "cluj_romania",
         "name": "Cluj",
         "region": "eastern_europe",
-        "country": "romania",
+        "country": "Romania",
         "bbox": {
             "top": "46.830",
             "left": "23.454",
@@ -713,7 +713,7 @@
         "id": "gdansk_poland",
         "name": "Gdansk",
         "region": "eastern_europe",
-        "country": "poland",
+        "country": "Poland",
         "bbox": {
             "top": "54.870",
             "left": "18.174",
@@ -725,7 +725,7 @@
         "id": "istanbul_turkey",
         "name": "Istanbul",
         "region": "eastern_europe",
-        "country": "turkey",
+        "country": "Turkey",
         "bbox": {
             "top": "41.421",
             "left": "28.313",
@@ -737,7 +737,7 @@
         "id": "kharkiv_ukraine",
         "name": "Kharkiv",
         "region": "eastern_europe",
-        "country": "ukraine",
+        "country": "Ukraine",
         "bbox": {
             "top": "50.105",
             "left": "36.106",
@@ -749,7 +749,7 @@
         "id": "krakow_poland",
         "name": "Krakow",
         "region": "eastern_europe",
-        "country": "poland",
+        "country": "Poland",
         "bbox": {
             "top": "50.240",
             "left": "19.594",
@@ -761,7 +761,7 @@
         "id": "kyiv_ukraine",
         "name": "Kyiv",
         "region": "eastern_europe",
-        "country": "ukraine",
+        "country": "Ukraine",
         "bbox": {
             "top": "50.740",
             "left": "30.078",
@@ -773,7 +773,7 @@
         "id": "lviv_ukraine",
         "name": "Lviv",
         "region": "eastern_europe",
-        "country": "ukraine",
+        "country": "Ukraine",
         "bbox": {
             "top": "50.148",
             "left": "23.587",
@@ -785,7 +785,7 @@
         "id": "minsk_belarus",
         "name": "Minsk",
         "region": "eastern_europe",
-        "country": "belarus",
+        "country": "Belarus",
         "bbox": {
             "top": "53.972",
             "left": "27.375",
@@ -797,7 +797,7 @@
         "id": "poznan_poland",
         "name": "Poznan",
         "region": "eastern_europe",
-        "country": "poland",
+        "country": "Poland",
         "bbox": {
             "top": "52.509",
             "left": "16.732",
@@ -809,7 +809,7 @@
         "id": "prague_czech-republic",
         "name": "Prague",
         "region": "eastern_europe",
-        "country": "czech-republic",
+        "country": "Czech Republic",
         "bbox": {
             "top": "50.408",
             "left": "13.842",
@@ -821,7 +821,7 @@
         "id": "riga_latvia",
         "name": "Riga",
         "region": "eastern_europe",
-        "country": "latvia",
+        "country": "Latvia",
         "bbox": {
             "top": "57.300",
             "left": "23.469",
@@ -833,7 +833,7 @@
         "id": "sofia_bulgaria",
         "name": "Sofia",
         "region": "eastern_europe",
-        "country": "bulgaria",
+        "country": "Bulgaria",
         "bbox": {
             "top": "43.040",
             "left": "22.870",
@@ -845,7 +845,7 @@
         "id": "vienna_austria",
         "name": "Vienna",
         "region": "eastern_europe",
-        "country": "austria",
+        "country": "Austria",
         "bbox": {
             "top": "48.386",
             "left": "16.137",
@@ -857,7 +857,7 @@
         "id": "warsaw_poland",
         "name": "Warsaw",
         "region": "eastern_europe",
-        "country": "poland",
+        "country": "Poland",
         "bbox": {
             "top": "52.623",
             "left": "20.341",
@@ -869,7 +869,7 @@
         "id": "wroclaw_poland",
         "name": "Wroclaw",
         "region": "eastern_europe",
-        "country": "poland",
+        "country": "Poland",
         "bbox": {
             "top": "51.311",
             "left": "16.652",
@@ -881,7 +881,7 @@
         "id": "zagreb_croatia",
         "name": "Zagreb",
         "region": "eastern_europe",
-        "country": "croatia",
+        "country": "Croatia",
         "bbox": {
             "top": "45.848",
             "left": "15.810",
@@ -894,7 +894,7 @@
         "id": "adana_turkey",
         "name": "Adana",
         "region": "middle_east",
-        "country": "turkey",
+        "country": "Turkey",
         "bbox": {
             "top": "37.070",
             "left": "35.210",
@@ -906,7 +906,7 @@
         "id": "amman_jordan",
         "name": "Amman",
         "region": "middle_east",
-        "country": "jordan",
+        "country": "Jordan",
         "bbox": {
             "top": "32.171",
             "left": "35.715",
@@ -918,7 +918,7 @@
         "id": "baghdad_iraq",
         "name": "Baghdad",
         "region": "middle_east",
-        "country": "iraq",
+        "country": "Iraq",
         "bbox": {
             "top": "33.715",
             "left": "43.786",
@@ -930,7 +930,7 @@
         "id": "doha_qatar",
         "name": "Doha",
         "region": "middle_east",
-        "country": "qatar",
+        "country": "Qatar",
         "bbox": {
             "top": "25.637",
             "left": "51.240",
@@ -942,7 +942,7 @@
         "id": "dubai_abu-dhabi",
         "name": "Dubai",
         "region": "middle_east",
-        "country": "abu-dhabi",
+        "country": "Abu Dhabi",
         "bbox": {
             "top": "26.539",
             "left": "53.580",
@@ -954,7 +954,7 @@
         "id": "izmir_turkey",
         "name": "Izmir",
         "region": "middle_east",
-        "country": "turkey",
+        "country": "Turkey",
         "bbox": {
             "top": "38.545",
             "left": "26.855",
@@ -966,7 +966,7 @@
         "id": "jeddah_saudi-arabia",
         "name": "Jeddah",
         "region": "middle_east",
-        "country": "saudi-arabia",
+        "country": "Saudi Arabia",
         "bbox": {
             "top": "21.905",
             "left": "39.029",
@@ -978,7 +978,7 @@
         "id": "jerusalem_israel",
         "name": "Jerusalem",
         "region": "middle_east",
-        "country": "israel",
+        "country": "Israel",
         "bbox": {
             "top": "31.866",
             "left": "35.072",
@@ -990,7 +990,7 @@
         "id": "riyadh_saudi-arabia",
         "name": "Riyadh",
         "region": "middle_east",
-        "country": "saudi-arabia",
+        "country": "Saudi Arabia",
         "bbox": {
             "top": "25.098",
             "left": "46.227",
@@ -1002,7 +1002,7 @@
         "id": "tehran_iran",
         "name": "Tehran",
         "region": "middle_east",
-        "country": "iran",
+        "country": "Iran",
         "bbox": {
             "top": "35.917",
             "left": "50.870",
@@ -1014,7 +1014,7 @@
         "id": "tel-aviv_israel",
         "name": "Tel Aviv",
         "region": "middle_east",
-        "country": "israel",
+        "country": "Israel",
         "bbox": {
             "top": "32.246",
             "left": "34.642",
@@ -1027,7 +1027,7 @@
         "id": "albany_new-york",
         "name": "Albany",
         "region": "north_america",
-        "country": "new-york",
+        "country": "United States",
         "bbox": {
             "top": "42.722",
             "left": "-73.898",
@@ -1039,7 +1039,7 @@
         "id": "atlanta_georgia",
         "name": "Atlanta",
         "region": "north_america",
-        "country": "georgia",
+        "country": "United States",
         "bbox": {
             "top": "34.618",
             "left": "-85.386",
@@ -1051,7 +1051,7 @@
         "id": "austin_texas",
         "name": "Austin",
         "region": "north_america",
-        "country": "texas",
+        "country": "United States",
         "bbox": {
             "top": "30.670",
             "left": "-98.212",
@@ -1063,7 +1063,7 @@
         "id": "boston_massachusetts",
         "name": "Boston",
         "region": "north_america",
-        "country": "massachusetts",
+        "country": "United States",
         "bbox": {
             "top": "42.420",
             "left": "-71.191",
@@ -1075,7 +1075,7 @@
         "id": "brooklyn_new-york",
         "name": "Brooklyn",
         "region": "north_america",
-        "country": "new-york",
+        "country": "United States",
         "bbox": {
             "top": "40.739",
             "left": "-74.057",
@@ -1087,7 +1087,7 @@
         "id": "calgary_canada",
         "name": "Calgary",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "51.353",
             "left": "-114.612",
@@ -1099,7 +1099,7 @@
         "id": "chicago_illinois",
         "name": "Chicago",
         "region": "north_america",
-        "country": "illinois",
+        "country": "United States",
         "bbox": {
             "top": "42.297",
             "left": "-88.505",
@@ -1111,7 +1111,7 @@
         "id": "cleveland_ohio",
         "name": "Cleveland",
         "region": "north_america",
-        "country": "ohio",
+        "country": "United States",
         "bbox": {
             "top": "41.918",
             "left": "-82.485",
@@ -1123,7 +1123,7 @@
         "id": "dallas_texas",
         "name": "Dallas",
         "region": "north_america",
-        "country": "texas",
+        "country": "United States",
         "bbox": {
             "top": "33.431",
             "left": "-97.789",
@@ -1135,7 +1135,7 @@
         "id": "dc-baltimore_maryland",
         "name": "DC/Baltimore",
         "region": "north_america",
-        "country": "maryland",
+        "country": "United States",
         "bbox": {
             "top": "39.631",
             "left": "-77.599",
@@ -1147,7 +1147,7 @@
         "id": "denver-boulder_colorado",
         "name": "Denver/Boulder",
         "region": "north_america",
-        "country": "colorado",
+        "country": "United States",
         "bbox": {
             "top": "40.313",
             "left": "-105.746",
@@ -1159,7 +1159,7 @@
         "id": "detroit_michigan",
         "name": "Detroit",
         "region": "north_america",
-        "country": "michigan",
+        "country": "United States",
         "bbox": {
             "top": "43.168",
             "left": "-84.158",
@@ -1171,7 +1171,7 @@
         "id": "edmonton_canada",
         "name": "Edmonton",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "54.213",
             "left": "-114.529",
@@ -1183,7 +1183,7 @@
         "id": "hampton-roads_virginia",
         "name": "Hampton Roads",
         "region": "north_america",
-        "country": "virginia",
+        "country": "United States",
         "bbox": {
             "top": "37.208",
             "left": "-76.663",
@@ -1195,7 +1195,7 @@
         "id": "honolulu_hawaii",
         "name": "Honolulu",
         "region": "north_america",
-        "country": "hawaii",
+        "country": "United States",
         "bbox": {
             "top": "21.781",
             "left": "-158.350",
@@ -1207,7 +1207,7 @@
         "id": "houston_texas",
         "name": "Houston",
         "region": "north_america",
-        "country": "texas",
+        "country": "United States",
         "bbox": {
             "top": "30.261",
             "left": "-96.064",
@@ -1219,7 +1219,7 @@
         "id": "kansas-city-lawrence-topeka_kansas",
         "name": "Kansas City/Lawrence/Topeka",
         "region": "north_america",
-        "country": "kansas",
+        "country": "United States",
         "bbox": {
             "top": "39.419",
             "left": "-95.946",
@@ -1231,7 +1231,7 @@
         "id": "la-habana_cuba",
         "name": "La Habana",
         "region": "north_america",
-        "country": "cuba",
+        "country": "Cuba",
         "bbox": {
             "top": "23.184",
             "left": "-82.462",
@@ -1243,7 +1243,7 @@
         "id": "las-vegas_nevada",
         "name": "Las Vegas",
         "region": "north_america",
-        "country": "nevada",
+        "country": "United States",
         "bbox": {
             "top": "36.615",
             "left": "-115.581",
@@ -1255,7 +1255,7 @@
         "id": "los-angeles_california",
         "name": "Los Angeles",
         "region": "north_america",
-        "country": "california",
+        "country": "United States",
         "bbox": {
             "top": "34.583",
             "left": "-119.437",
@@ -1267,7 +1267,7 @@
         "id": "mexico-city_mexico",
         "name": "Mexico City",
         "region": "north_america",
-        "country": "mexico",
+        "country": "Mexico",
         "bbox": {
             "top": "19.921",
             "left": "-99.597",
@@ -1279,7 +1279,7 @@
         "id": "miami_florida",
         "name": "Miami",
         "region": "north_america",
-        "country": "florida",
+        "country": "United States",
         "bbox": {
             "top": "26.912",
             "left": "-80.683",
@@ -1291,7 +1291,7 @@
         "id": "minneapolis-saint-paul_minnesota",
         "name": "Minneapolis/Saint Paul",
         "region": "north_america",
-        "country": "minnesota",
+        "country": "United States",
         "bbox": {
             "top": "45.415",
             "left": "-94.013",
@@ -1303,7 +1303,7 @@
         "id": "montreal_canada",
         "name": "Montreal",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "46.057",
             "left": "-74.734",
@@ -1315,7 +1315,7 @@
         "id": "nashville_tennessee",
         "name": "Nashville",
         "region": "north_america",
-        "country": "tennessee",
+        "country": "United States",
         "bbox": {
             "top": "36.652",
             "left": "-87.743",
@@ -1327,7 +1327,7 @@
         "id": "new-orleans_louisiana",
         "name": "New Orleans",
         "region": "north_america",
-        "country": "louisiana",
+        "country": "United States",
         "bbox": {
             "top": "30.510",
             "left": "-90.653",
@@ -1339,7 +1339,7 @@
         "id": "new-york_new-york",
         "name": "New York",
         "region": "north_america",
-        "country": "new-york",
+        "country": "United States",
         "bbox": {
             "top": "41.097",
             "left": "-74.501",
@@ -1351,7 +1351,7 @@
         "id": "ottawa_canada",
         "name": "Ottawa",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "45.598",
             "left": "-76.361",
@@ -1363,7 +1363,7 @@
         "id": "philadelphia_pennsylvania",
         "name": "Philadelphia",
         "region": "north_america",
-        "country": "pennsylvania",
+        "country": "United States",
         "bbox": {
             "top": "40.308",
             "left": "-75.572",
@@ -1375,7 +1375,7 @@
         "id": "phoenix_arizona",
         "name": "Phoenix",
         "region": "north_america",
-        "country": "arizona",
+        "country": "United States",
         "bbox": {
             "top": "34.070",
             "left": "-112.821",
@@ -1387,7 +1387,7 @@
         "id": "pittsburgh_pennsylvania",
         "name": "Pittsburgh",
         "region": "north_america",
-        "country": "pennsylvania",
+        "country": "United States",
         "bbox": {
             "top": "40.880",
             "left": "-80.711",
@@ -1399,7 +1399,7 @@
         "id": "port-au-prince_haiti",
         "name": "Port au Prince",
         "region": "north_america",
-        "country": "haiti",
+        "country": "Haiti",
         "bbox": {
             "top": "18.683",
             "left": "-72.518",
@@ -1411,7 +1411,7 @@
         "id": "portland_oregon",
         "name": "Portland",
         "region": "north_america",
-        "country": "oregon",
+        "country": "United States",
         "bbox": {
             "top": "45.897",
             "left": "-123.521",
@@ -1423,7 +1423,7 @@
         "id": "raleigh_north-carolina",
         "name": "Raleigh",
         "region": "north_america",
-        "country": "north-carolina",
+        "country": "United States",
         "bbox": {
             "top": "36.051",
             "left": "-79.116",
@@ -1435,7 +1435,7 @@
         "id": "saint-louis_missouri",
         "name": "Saint Louis",
         "region": "north_america",
-        "country": "missouri",
+        "country": "United States",
         "bbox": {
             "top": "39.151",
             "left": "-91.010",
@@ -1447,7 +1447,7 @@
         "id": "san-antonio_texas",
         "name": "San Antonio",
         "region": "north_america",
-        "country": "texas",
+        "country": "United States",
         "bbox": {
             "top": "29.951",
             "left": "-98.951",
@@ -1459,7 +1459,7 @@
         "id": "san-diego-tijuana_mexico",
         "name": "San Diego/Tijuana",
         "region": "north_america",
-        "country": "mexico",
+        "country": "Mexico",
         "bbox": {
             "top": "33.078",
             "left": "-117.376",
@@ -1471,7 +1471,7 @@
         "id": "san-diego_california",
         "name": "San Diego",
         "region": "north_america",
-        "country": "california",
+        "country": "United States",
         "bbox": {
             "top": "32.910",
             "left": "-117.288",
@@ -1483,7 +1483,7 @@
         "id": "san-francisco-bay_california",
         "name": "San Francisco Bay",
         "region": "north_america",
-        "country": "california",
+        "country": "United States",
         "bbox": {
             "top": "38.719",
             "left": "-123.640",
@@ -1495,7 +1495,7 @@
         "id": "san-francisco_california",
         "name": "San Francisco",
         "region": "north_america",
-        "country": "california",
+        "country": "United States",
         "bbox": {
             "top": "37.955",
             "left": "-122.737",
@@ -1507,7 +1507,7 @@
         "id": "san-jose_california",
         "name": "San Jose",
         "region": "north_america",
-        "country": "california",
+        "country": "United States",
         "bbox": {
             "top": "37.469",
             "left": "-122.046",
@@ -1519,7 +1519,7 @@
         "id": "seattle_washington",
         "name": "Seattle",
         "region": "north_america",
-        "country": "washington",
+        "country": "United States",
         "bbox": {
             "top": "48.528",
             "left": "-123.931",
@@ -1531,7 +1531,7 @@
         "id": "tampa_florida",
         "name": "Tampa",
         "region": "north_america",
-        "country": "florida",
+        "country": "United States",
         "bbox": {
             "top": "28.376",
             "left": "-82.935",
@@ -1543,7 +1543,7 @@
         "id": "toronto_canada",
         "name": "Toronto",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "44.182",
             "left": "-80.161",
@@ -1555,7 +1555,7 @@
         "id": "vancouver_canada",
         "name": "Vancouver",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "49.320",
             "left": "-123.290",
@@ -1567,7 +1567,7 @@
         "id": "victoria_canada",
         "name": "Victoria",
         "region": "north_america",
-        "country": "canada",
+        "country": "Canada",
         "bbox": {
             "top": "48.871",
             "left": "-124.063",
@@ -1580,7 +1580,7 @@
         "id": "aarhus_denmark",
         "name": "Aarhus",
         "region": "northern_europe",
-        "country": "denmark",
+        "country": "Denmark",
         "bbox": {
             "top": "56.252",
             "left": "10.068",
@@ -1592,7 +1592,7 @@
         "id": "gothenburg_sweden",
         "name": "Gothenburg",
         "region": "northern_europe",
-        "country": "sweden",
+        "country": "Sweden",
         "bbox": {
             "top": "57.803",
             "left": "11.552",
@@ -1604,7 +1604,7 @@
         "id": "helsinki_finland",
         "name": "Helsinki",
         "region": "northern_europe",
-        "country": "finland",
+        "country": "Finland",
         "bbox": {
             "top": "60.680",
             "left": "24.340",
@@ -1616,7 +1616,7 @@
         "id": "oslo_norway",
         "name": "Oslo",
         "region": "northern_europe",
-        "country": "norway",
+        "country": "Norway",
         "bbox": {
             "top": "60.424",
             "left": "9.691",
@@ -1628,7 +1628,7 @@
         "id": "reykjavik_iceland",
         "name": "Reykjavik",
         "region": "northern_europe",
-        "country": "iceland",
+        "country": "Iceland",
         "bbox": {
             "top": "64.297",
             "left": "-22.826",
@@ -1640,7 +1640,7 @@
         "id": "stockholm_sweden",
         "name": "Stockholm",
         "region": "northern_europe",
-        "country": "sweden",
+        "country": "Sweden",
         "bbox": {
             "top": "60.249",
             "left": "16.858",
@@ -1653,7 +1653,7 @@
         "id": "adelaide_australia",
         "name": "Adelaide",
         "region": "oceania",
-        "country": "australia",
+        "country": "Australia",
         "bbox": {
             "top": "-34.570",
             "left": "138.417",
@@ -1665,7 +1665,7 @@
         "id": "auckland_new-zealand",
         "name": "Auckland",
         "region": "oceania",
-        "country": "new-zealand",
+        "country": "New Zealand",
         "bbox": {
             "top": "-36.410",
             "left": "174.223",
@@ -1677,7 +1677,7 @@
         "id": "bali_indonesia",
         "name": "Bali",
         "region": "oceania",
-        "country": "indonesia",
+        "country": "Indonesia",
         "bbox": {
             "top": "-6.995",
             "left": "113.055",
@@ -1689,7 +1689,7 @@
         "id": "bandung_indonesia",
         "name": "Bandung",
         "region": "oceania",
-        "country": "indonesia",
+        "country": "Indonesia",
         "bbox": {
             "top": "-6.773",
             "left": "107.474",
@@ -1701,7 +1701,7 @@
         "id": "brisbane_australia",
         "name": "Brisbane",
         "region": "oceania",
-        "country": "australia",
+        "country": "Australia",
         "bbox": {
             "top": "-27.000",
             "left": "152.700",
@@ -1713,7 +1713,7 @@
         "id": "jakarta_indonesia",
         "name": "Jakarta",
         "region": "oceania",
-        "country": "indonesia",
+        "country": "Indonesia",
         "bbox": {
             "top": "-5.881",
             "left": "106.435",
@@ -1725,7 +1725,7 @@
         "id": "melbourne_australia",
         "name": "Melbourne",
         "region": "oceania",
-        "country": "australia",
+        "country": "Australia",
         "bbox": {
             "top": "-37.365",
             "left": "144.266",
@@ -1737,7 +1737,7 @@
         "id": "perth_australia",
         "name": "Perth",
         "region": "oceania",
-        "country": "australia",
+        "country": "Australia",
         "bbox": {
             "top": "-31.705",
             "left": "115.439",
@@ -1749,7 +1749,7 @@
         "id": "sydney_australia",
         "name": "Sydney",
         "region": "oceania",
-        "country": "australia",
+        "country": "Australia",
         "bbox": {
             "top": "-33.637",
             "left": "150.628",
@@ -1762,7 +1762,7 @@
         "id": "bogota_colombia",
         "name": "Bogota",
         "region": "south_america",
-        "country": "colombia",
+        "country": "Colombia",
         "bbox": {
             "top": "5.022",
             "left": "-74.421",
@@ -1774,7 +1774,7 @@
         "id": "brasilia_brazil",
         "name": "Brasilia",
         "region": "south_america",
-        "country": "brazil",
+        "country": "Brazil",
         "bbox": {
             "top": "-15.360",
             "left": "-48.501",
@@ -1786,7 +1786,7 @@
         "id": "buenos-aires_argentina",
         "name": "Buenos Aires",
         "region": "south_america",
-        "country": "argentina",
+        "country": "Argentina",
         "bbox": {
             "top": "-34.219",
             "left": "-59.258",
@@ -1798,7 +1798,7 @@
         "id": "caracas_venezuela",
         "name": "Caracas",
         "region": "south_america",
-        "country": "venezuela",
+        "country": "Venezuela",
         "bbox": {
             "top": "10.645",
             "left": "-67.110",
@@ -1810,7 +1810,7 @@
         "id": "lima_peru",
         "name": "Lima",
         "region": "south_america",
-        "country": "peru",
+        "country": "Peru",
         "bbox": {
             "top": "-11.644",
             "left": "-77.294",
@@ -1822,7 +1822,7 @@
         "id": "medellin_colombia",
         "name": "Medellin",
         "region": "south_america",
-        "country": "colombia",
+        "country": "Colombia",
         "bbox": {
             "top": "6.497",
             "left": "-75.887",
@@ -1834,7 +1834,7 @@
         "id": "rio-de-janeiro_brazil",
         "name": "Rio de Janeiro",
         "region": "south_america",
-        "country": "brazil",
+        "country": "Brazil",
         "bbox": {
             "top": "-22.378",
             "left": "-43.860",
@@ -1846,7 +1846,7 @@
         "id": "santiago_chile",
         "name": "Santiago",
         "region": "south_america",
-        "country": "chile",
+        "country": "Chile",
         "bbox": {
             "top": "-33.151",
             "left": "-71.043",
@@ -1858,7 +1858,7 @@
         "id": "sao-paulo_brazil",
         "name": "Sao Paulo",
         "region": "south_america",
-        "country": "brazil",
+        "country": "Brazil",
         "bbox": {
             "top": "-23.125",
             "left": "-47.357",
@@ -1871,7 +1871,7 @@
         "id": "acoruna_spain",
         "name": "Acoruna",
         "region": "southern_europe",
-        "country": "spain",
+        "country": "Spain",
         "bbox": {
             "top": "43.600",
             "left": "-8.600",
@@ -1883,7 +1883,7 @@
         "id": "athens_greece",
         "name": "Athens",
         "region": "southern_europe",
-        "country": "greece",
+        "country": "Greece",
         "bbox": {
             "top": "38.365",
             "left": "22.949",
@@ -1895,7 +1895,7 @@
         "id": "barcelona_spain",
         "name": "Barcelona",
         "region": "southern_europe",
-        "country": "spain",
+        "country": "Spain",
         "bbox": {
             "top": "41.533",
             "left": "1.898",
@@ -1907,7 +1907,7 @@
         "id": "bologna_italy",
         "name": "Bologna",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "44.668",
             "left": "10.998",
@@ -1919,7 +1919,7 @@
         "id": "florence_italy",
         "name": "Florence",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "43.983",
             "left": "10.982",
@@ -1931,7 +1931,7 @@
         "id": "genoa_italy",
         "name": "Genoa",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "44.561",
             "left": "8.444",
@@ -1943,7 +1943,7 @@
         "id": "lisbon_portugal",
         "name": "Lisbon",
         "region": "southern_europe",
-        "country": "portugal",
+        "country": "Portugal",
         "bbox": {
             "top": "39.150",
             "left": "-9.634",
@@ -1955,7 +1955,7 @@
         "id": "madrid_spain",
         "name": "Madrid",
         "region": "southern_europe",
-        "country": "spain",
+        "country": "Spain",
         "bbox": {
             "top": "41.030",
             "left": "-4.293",
@@ -1967,7 +1967,7 @@
         "id": "milan_italy",
         "name": "Milan",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "45.694",
             "left": "8.860",
@@ -1979,7 +1979,7 @@
         "id": "naples_italy",
         "name": "Naples",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "40.916",
             "left": "14.139",
@@ -1991,7 +1991,7 @@
         "id": "porto_portugal",
         "name": "Porto",
         "region": "southern_europe",
-        "country": "portugal",
+        "country": "Portugal",
         "bbox": {
             "top": "41.399",
             "left": "-8.795",
@@ -2003,7 +2003,7 @@
         "id": "rome_italy",
         "name": "Rome",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "42.130",
             "left": "12.109",
@@ -2015,7 +2015,7 @@
         "id": "thessaloniki_greece",
         "name": "Thessaloniki",
         "region": "southern_europe",
-        "country": "greece",
+        "country": "Greece",
         "bbox": {
             "top": "40.656",
             "left": "22.902",
@@ -2027,7 +2027,7 @@
         "id": "valencia_spain",
         "name": "Valencia",
         "region": "southern_europe",
-        "country": "spain",
+        "country": "Spain",
         "bbox": {
             "top": "39.504",
             "left": "-0.436",
@@ -2039,7 +2039,7 @@
         "id": "venice_italy",
         "name": "Venice",
         "region": "southern_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "45.811",
             "left": "11.629",
@@ -2052,7 +2052,7 @@
         "id": "amsterdam_netherlands",
         "name": "Amsterdam",
         "region": "western_europe",
-        "country": "netherlands",
+        "country": "Netherlands",
         "bbox": {
             "top": "52.629",
             "left": "4.465",
@@ -2064,7 +2064,7 @@
         "id": "antwerp_belgium",
         "name": "Antwerp",
         "region": "western_europe",
-        "country": "belgium",
+        "country": "Belgium",
         "bbox": {
             "top": "51.385",
             "left": "4.192",
@@ -2076,7 +2076,7 @@
         "id": "belfast_ireland",
         "name": "Belfast",
         "region": "western_europe",
-        "country": "ireland",
+        "country": "Ireland",
         "bbox": {
             "top": "54.663",
             "left": "-6.046",
@@ -2088,7 +2088,7 @@
         "id": "berlin_germany",
         "name": "Berlin",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "52.994",
             "left": "12.260",
@@ -2100,7 +2100,7 @@
         "id": "bern_switzerland",
         "name": "Bern",
         "region": "western_europe",
-        "country": "switzerland",
+        "country": "Switzerland",
         "bbox": {
             "top": "47.023",
             "left": "7.330",
@@ -2112,7 +2112,7 @@
         "id": "birmingham_england",
         "name": "Birmingham",
         "region": "western_europe",
-        "country": "england",
+        "country": "England",
         "bbox": {
             "top": "52.794",
             "left": "-2.536",
@@ -2124,7 +2124,7 @@
         "id": "bordeaux_france",
         "name": "Bordeaux",
         "region": "western_europe",
-        "country": "france",
+        "country": "France",
         "bbox": {
             "top": "45.065",
             "left": "-0.900",
@@ -2136,7 +2136,7 @@
         "id": "brussels_belgium",
         "name": "Brussels",
         "region": "western_europe",
-        "country": "belgium",
+        "country": "Belgium",
         "bbox": {
             "top": "51.053",
             "left": "3.981",
@@ -2148,7 +2148,7 @@
         "id": "cardiff-newport-bristol-bath_england",
         "name": "Cardiff/Newport/Bristol/Bath",
         "region": "western_europe",
-        "country": "england",
+        "country": "England",
         "bbox": {
             "top": "51.730",
             "left": "-3.618",
@@ -2160,7 +2160,7 @@
         "id": "cologne_germany",
         "name": "Cologne",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "51.009",
             "left": "6.844",
@@ -2172,7 +2172,7 @@
         "id": "copenhagen_denmark",
         "name": "Copenhagen",
         "region": "western_europe",
-        "country": "denmark",
+        "country": "Denmark",
         "bbox": {
             "top": "55.950",
             "left": "11.894",
@@ -2184,7 +2184,7 @@
         "id": "dresden_germany",
         "name": "Dresden",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "51.180",
             "left": "13.586",
@@ -2196,7 +2196,7 @@
         "id": "dublin_ireland",
         "name": "Dublin",
         "region": "western_europe",
-        "country": "ireland",
+        "country": "Ireland",
         "bbox": {
             "top": "53.512",
             "left": "-6.569",
@@ -2208,7 +2208,7 @@
         "id": "duesseldorf_germany",
         "name": "Duesseldorf",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "51.361",
             "left": "6.622",
@@ -2220,7 +2220,7 @@
         "id": "edinburgh_scotland",
         "name": "Edinburgh",
         "region": "western_europe",
-        "country": "scotland",
+        "country": "Scotland",
         "bbox": {
             "top": "56.132",
             "left": "-3.585",
@@ -2232,7 +2232,7 @@
         "id": "frankfurt_germany",
         "name": "Frankfurt",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "50.227",
             "left": "8.471",
@@ -2244,7 +2244,7 @@
         "id": "glasgow_scotland",
         "name": "Glasgow",
         "region": "western_europe",
-        "country": "scotland",
+        "country": "Scotland",
         "bbox": {
             "top": "56.034",
             "left": "-4.613",
@@ -2256,7 +2256,7 @@
         "id": "hamburg_germany",
         "name": "Hamburg",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "53.833",
             "left": "9.376",
@@ -2268,7 +2268,7 @@
         "id": "liverpool_england",
         "name": "Liverpool",
         "region": "western_europe",
-        "country": "england",
+        "country": "England",
         "bbox": {
             "top": "53.514",
             "left": "-3.201",
@@ -2280,7 +2280,7 @@
         "id": "london_england",
         "name": "London",
         "region": "western_europe",
-        "country": "england",
+        "country": "England",
         "bbox": {
             "top": "51.984",
             "left": "-1.115",
@@ -2292,7 +2292,7 @@
         "id": "lyon_france",
         "name": "Lyon",
         "region": "western_europe",
-        "country": "france",
+        "country": "France",
         "bbox": {
             "top": "46.191",
             "left": "4.136",
@@ -2304,7 +2304,7 @@
         "id": "manchester_england",
         "name": "Manchester",
         "region": "western_europe",
-        "country": "england",
+        "country": "England",
         "bbox": {
             "top": "53.672",
             "left": "-2.588",
@@ -2316,7 +2316,7 @@
         "id": "marseille_france",
         "name": "Marseille",
         "region": "western_europe",
-        "country": "france",
+        "country": "France",
         "bbox": {
             "top": "43.554",
             "left": "4.905",
@@ -2328,7 +2328,7 @@
         "id": "munich_germany",
         "name": "Munich",
         "region": "western_europe",
-        "country": "germany",
+        "country": "Germany",
         "bbox": {
             "top": "48.248",
             "left": "11.359",
@@ -2340,7 +2340,7 @@
         "id": "paris_france",
         "name": "Paris",
         "region": "western_europe",
-        "country": "france",
+        "country": "France",
         "bbox": {
             "top": "49.178",
             "left": "1.851",
@@ -2352,7 +2352,7 @@
         "id": "rotterdam_netherlands",
         "name": "Rotterdam",
         "region": "western_europe",
-        "country": "netherlands",
+        "country": "Netherlands",
         "bbox": {
             "top": "52.109",
             "left": "3.911",
@@ -2364,7 +2364,7 @@
         "id": "southampton_england",
         "name": "Southampton",
         "region": "western_europe",
-        "country": "england",
+        "country": "England",
         "bbox": {
             "top": "50.956",
             "left": "-1.479",
@@ -2376,7 +2376,7 @@
         "id": "strasbourg_france",
         "name": "Strasbourg",
         "region": "western_europe",
-        "country": "france",
+        "country": "France",
         "bbox": {
             "top": "48.722",
             "left": "7.449",
@@ -2388,7 +2388,7 @@
         "id": "turin_italy",
         "name": "Turin",
         "region": "western_europe",
-        "country": "italy",
+        "country": "Italy",
         "bbox": {
             "top": "45.174",
             "left": "7.504",
@@ -2400,7 +2400,7 @@
         "id": "zurich_switzerland",
         "name": "Zurich",
         "region": "western_europe",
-        "country": "switzerland",
+        "country": "Switzerland",
         "bbox": {
             "top": "47.533",
             "left": "8.275",
