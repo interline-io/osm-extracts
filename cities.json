@@ -60,19 +60,6 @@
         }
     },
     {
-        "id": "algiers_algeria",
-        "status": "deprecated",
-        "name": "Algiers",
-        "region": "africa",
-        "country": "Algeria",
-        "bbox": {
-            "top": "36.762",
-            "left": "3.026",
-            "bottom": "36.744",
-            "right": "3.058"
-        }
-    },
-    {
         "id": "algiers_algeria_expanded",
         "status": "published",
         "name": "Algiers",
