@@ -61,7 +61,7 @@
     },
     {
         "id": "algiers_algeria",
-        "status": "deprecated",
+        "status": "published",
         "name": "Algiers",
         "region": "africa",
         "country": "Algeria",
