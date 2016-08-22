@@ -61,7 +61,7 @@
     },
     {
         "id": "algiers_algeria",
-        "status": "published",
+        "status": "deprecated",
         "name": "Algiers",
         "region": "africa",
         "country": "Algeria",
@@ -74,7 +74,7 @@
     },
     {
         "id": "algiers_algeria_expanded",
-        "status": "pre-published",
+        "status": "published",
         "name": "Algiers",
         "region": "africa",
         "country": "Algeria",
