@@ -28,8 +28,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "abidjan_ivory-coast", 
       "properties": {
+        "id": "abidjan_ivory-coast", 
         "name": "Abidjan"
       }, 
       "type": "Feature"
@@ -62,8 +62,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "abuja_nigeria", 
       "properties": {
+        "id": "abuja_nigeria", 
         "name": "Abuja"
       }, 
       "type": "Feature"
@@ -96,8 +96,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "accra_ghana", 
       "properties": {
+        "id": "accra_ghana", 
         "name": "Accra"
       }, 
       "type": "Feature"
@@ -130,8 +130,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "addis-abeba_ethiopia", 
       "properties": {
+        "id": "addis-abeba_ethiopia", 
         "name": "Addis-Abeba"
       }, 
       "type": "Feature"
@@ -164,8 +164,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "alexandria_egypt", 
       "properties": {
+        "id": "alexandria_egypt", 
         "name": "Alexandria"
       }, 
       "type": "Feature"
@@ -198,8 +198,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "algiers_algeria_expanded", 
       "properties": {
+        "id": "algiers_algeria_expanded", 
         "name": "Algiers"
       }, 
       "type": "Feature"
@@ -232,8 +232,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "cairo_egypt", 
       "properties": {
+        "id": "cairo_egypt", 
         "name": "Cairo"
       }, 
       "type": "Feature"
@@ -266,8 +266,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "cape-town_south-africa", 
       "properties": {
+        "id": "cape-town_south-africa", 
         "name": "Cape Town"
       }, 
       "type": "Feature"
@@ -300,8 +300,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "casablanca_morocco", 
       "properties": {
+        "id": "casablanca_morocco", 
         "name": "Casablanca"
       }, 
       "type": "Feature"
@@ -334,8 +334,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dar-es-salaam_tanzania", 
       "properties": {
+        "id": "dar-es-salaam_tanzania", 
         "name": "Dar es Salaam"
       }, 
       "type": "Feature"
@@ -368,8 +368,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "johannesburg_south-africa", 
       "properties": {
+        "id": "johannesburg_south-africa", 
         "name": "Johannesburg"
       }, 
       "type": "Feature"
@@ -402,8 +402,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "lagos_nigeria", 
       "properties": {
+        "id": "lagos_nigeria", 
         "name": "Lagos"
       }, 
       "type": "Feature"
@@ -436,8 +436,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "luanda_angola", 
       "properties": {
+        "id": "luanda_angola", 
         "name": "Luanda"
       }, 
       "type": "Feature"
@@ -470,8 +470,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "nairobi_kenya", 
       "properties": {
+        "id": "nairobi_kenya", 
         "name": "Nairobi"
       }, 
       "type": "Feature"
@@ -504,8 +504,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "tunis_tunisia", 
       "properties": {
+        "id": "tunis_tunisia", 
         "name": "Tunis"
       }, 
       "type": "Feature"
@@ -538,8 +538,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "agra_india", 
       "properties": {
+        "id": "agra_india", 
         "name": "Agra"
       }, 
       "type": "Feature"
@@ -572,8 +572,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "ahmedabad_india", 
       "properties": {
+        "id": "ahmedabad_india", 
         "name": "Ahmedabad"
       }, 
       "type": "Feature"
@@ -606,8 +606,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "almaty_kazakhstan", 
       "properties": {
+        "id": "almaty_kazakhstan", 
         "name": "Almaty"
       }, 
       "type": "Feature"
@@ -640,8 +640,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "ankara_turkey", 
       "properties": {
+        "id": "ankara_turkey", 
         "name": "Ankara"
       }, 
       "type": "Feature"
@@ -674,8 +674,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "astana_kazakhstan", 
       "properties": {
+        "id": "astana_kazakhstan", 
         "name": "Astana"
       }, 
       "type": "Feature"
@@ -708,8 +708,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bangkok_thailand", 
       "properties": {
+        "id": "bangkok_thailand", 
         "name": "Bangkok"
       }, 
       "type": "Feature"
@@ -742,8 +742,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "beijing_china", 
       "properties": {
+        "id": "beijing_china", 
         "name": "Beijing"
       }, 
       "type": "Feature"
@@ -776,8 +776,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bengaluru_india", 
       "properties": {
+        "id": "bengaluru_india", 
         "name": "Bengaluru"
       }, 
       "type": "Feature"
@@ -810,8 +810,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "chengdu_china", 
       "properties": {
+        "id": "chengdu_china", 
         "name": "Chengdu"
       }, 
       "type": "Feature"
@@ -844,8 +844,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "chennai_india", 
       "properties": {
+        "id": "chennai_india", 
         "name": "Chennai"
       }, 
       "type": "Feature"
@@ -878,8 +878,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "chongqing_china", 
       "properties": {
+        "id": "chongqing_china", 
         "name": "Chongqing"
       }, 
       "type": "Feature"
@@ -912,8 +912,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dhaka_bangladesh", 
       "properties": {
+        "id": "dhaka_bangladesh", 
         "name": "Dhaka"
       }, 
       "type": "Feature"
@@ -946,8 +946,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "guangzhou_china", 
       "properties": {
+        "id": "guangzhou_china", 
         "name": "Guangzhou"
       }, 
       "type": "Feature"
@@ -980,8 +980,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "hangzhou_china", 
       "properties": {
+        "id": "hangzhou_china", 
         "name": "Hangzhou"
       }, 
       "type": "Feature"
@@ -1014,8 +1014,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "hanoi_vietnam", 
       "properties": {
+        "id": "hanoi_vietnam", 
         "name": "Hanoi"
       }, 
       "type": "Feature"
@@ -1048,8 +1048,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "ho-chi-minh-city_vietnam", 
       "properties": {
+        "id": "ho-chi-minh-city_vietnam", 
         "name": "Ho Chi Minh City"
       }, 
       "type": "Feature"
@@ -1082,8 +1082,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "hong-kong_china", 
       "properties": {
+        "id": "hong-kong_china", 
         "name": "Hong Kong"
       }, 
       "type": "Feature"
@@ -1116,8 +1116,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "hyderabad_india", 
       "properties": {
+        "id": "hyderabad_india", 
         "name": "Hyderabad"
       }, 
       "type": "Feature"
@@ -1150,8 +1150,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "karachi_pakistan", 
       "properties": {
+        "id": "karachi_pakistan", 
         "name": "Karachi"
       }, 
       "type": "Feature"
@@ -1184,8 +1184,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "kolkata_india", 
       "properties": {
+        "id": "kolkata_india", 
         "name": "Kolkata"
       }, 
       "type": "Feature"
@@ -1218,8 +1218,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "kuala-lumpur_malaysia", 
       "properties": {
+        "id": "kuala-lumpur_malaysia", 
         "name": "Kuala Lumpur"
       }, 
       "type": "Feature"
@@ -1252,8 +1252,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "manila_philippines", 
       "properties": {
+        "id": "manila_philippines", 
         "name": "Manila"
       }, 
       "type": "Feature"
@@ -1286,8 +1286,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "moscow_russia", 
       "properties": {
+        "id": "moscow_russia", 
         "name": "Moscow"
       }, 
       "type": "Feature"
@@ -1320,8 +1320,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "mumbai_india", 
       "properties": {
+        "id": "mumbai_india", 
         "name": "Mumbai"
       }, 
       "type": "Feature"
@@ -1354,8 +1354,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "new-delhi_india", 
       "properties": {
+        "id": "new-delhi_india", 
         "name": "New Delhi"
       }, 
       "type": "Feature"
@@ -1388,8 +1388,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "nizhniy-novgorod_russia", 
       "properties": {
+        "id": "nizhniy-novgorod_russia", 
         "name": "Nizhniy Novgorod"
       }, 
       "type": "Feature"
@@ -1422,8 +1422,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "perm_russia", 
       "properties": {
+        "id": "perm_russia", 
         "name": "Perm"
       }, 
       "type": "Feature"
@@ -1456,8 +1456,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "pune_india", 
       "properties": {
+        "id": "pune_india", 
         "name": "Pune"
       }, 
       "type": "Feature"
@@ -1490,8 +1490,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "rangoon_myanmar", 
       "properties": {
+        "id": "rangoon_myanmar", 
         "name": "Rangoon"
       }, 
       "type": "Feature"
@@ -1524,8 +1524,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "saint-petersburg_russia", 
       "properties": {
+        "id": "saint-petersburg_russia", 
         "name": "Saint Petersburg"
       }, 
       "type": "Feature"
@@ -1558,8 +1558,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "samara-tolyatti_russia", 
       "properties": {
+        "id": "samara-tolyatti_russia", 
         "name": "Samara Tolyatti"
       }, 
       "type": "Feature"
@@ -1592,8 +1592,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "seoul_south-korea", 
       "properties": {
+        "id": "seoul_south-korea", 
         "name": "Seoul"
       }, 
       "type": "Feature"
@@ -1626,8 +1626,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "shanghai_china", 
       "properties": {
+        "id": "shanghai_china", 
         "name": "Shanghai"
       }, 
       "type": "Feature"
@@ -1660,8 +1660,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "shenzhen_china", 
       "properties": {
+        "id": "shenzhen_china", 
         "name": "Shenzhen"
       }, 
       "type": "Feature"
@@ -1694,8 +1694,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "singapore", 
       "properties": {
+        "id": "singapore", 
         "name": "singapore"
       }, 
       "type": "Feature"
@@ -1728,8 +1728,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "taipei_taiwan", 
       "properties": {
+        "id": "taipei_taiwan", 
         "name": "Taipei"
       }, 
       "type": "Feature"
@@ -1762,8 +1762,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "tianjin_china", 
       "properties": {
+        "id": "tianjin_china", 
         "name": "Tianjin"
       }, 
       "type": "Feature"
@@ -1796,8 +1796,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "tokyo_japan", 
       "properties": {
+        "id": "tokyo_japan", 
         "name": "Tokyo"
       }, 
       "type": "Feature"
@@ -1830,8 +1830,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "ulaanbaatar_mongolia", 
       "properties": {
+        "id": "ulaanbaatar_mongolia", 
         "name": "Ulaanbaatar"
       }, 
       "type": "Feature"
@@ -1864,8 +1864,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "wuhan_china", 
       "properties": {
+        "id": "wuhan_china", 
         "name": "Wuhan"
       }, 
       "type": "Feature"
@@ -1898,8 +1898,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bratislava_slovakia", 
       "properties": {
+        "id": "bratislava_slovakia", 
         "name": "Bratislava"
       }, 
       "type": "Feature"
@@ -1932,8 +1932,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bucharest_romania", 
       "properties": {
+        "id": "bucharest_romania", 
         "name": "Bucharest"
       }, 
       "type": "Feature"
@@ -1966,8 +1966,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "budapest_hungary", 
       "properties": {
+        "id": "budapest_hungary", 
         "name": "Budapest"
       }, 
       "type": "Feature"
@@ -2000,8 +2000,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "cluj_romania", 
       "properties": {
+        "id": "cluj_romania", 
         "name": "Cluj"
       }, 
       "type": "Feature"
@@ -2034,8 +2034,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "gdansk_poland", 
       "properties": {
+        "id": "gdansk_poland", 
         "name": "Gdansk"
       }, 
       "type": "Feature"
@@ -2068,8 +2068,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "istanbul_turkey", 
       "properties": {
+        "id": "istanbul_turkey", 
         "name": "Istanbul"
       }, 
       "type": "Feature"
@@ -2102,8 +2102,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "kharkiv_ukraine", 
       "properties": {
+        "id": "kharkiv_ukraine", 
         "name": "Kharkiv"
       }, 
       "type": "Feature"
@@ -2136,8 +2136,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "krakow_poland", 
       "properties": {
+        "id": "krakow_poland", 
         "name": "Krakow"
       }, 
       "type": "Feature"
@@ -2170,8 +2170,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "kyiv_ukraine", 
       "properties": {
+        "id": "kyiv_ukraine", 
         "name": "Kyiv"
       }, 
       "type": "Feature"
@@ -2204,8 +2204,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "lviv_ukraine", 
       "properties": {
+        "id": "lviv_ukraine", 
         "name": "Lviv"
       }, 
       "type": "Feature"
@@ -2238,8 +2238,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "minsk_belarus", 
       "properties": {
+        "id": "minsk_belarus", 
         "name": "Minsk"
       }, 
       "type": "Feature"
@@ -2272,8 +2272,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "poznan_poland", 
       "properties": {
+        "id": "poznan_poland", 
         "name": "Poznan"
       }, 
       "type": "Feature"
@@ -2306,8 +2306,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "prague_czech-republic", 
       "properties": {
+        "id": "prague_czech-republic", 
         "name": "Prague"
       }, 
       "type": "Feature"
@@ -2340,8 +2340,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "riga_latvia", 
       "properties": {
+        "id": "riga_latvia", 
         "name": "Riga"
       }, 
       "type": "Feature"
@@ -2374,8 +2374,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "sofia_bulgaria", 
       "properties": {
+        "id": "sofia_bulgaria", 
         "name": "Sofia"
       }, 
       "type": "Feature"
@@ -2408,8 +2408,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "vienna_austria", 
       "properties": {
+        "id": "vienna_austria", 
         "name": "Vienna"
       }, 
       "type": "Feature"
@@ -2442,8 +2442,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "warsaw_poland", 
       "properties": {
+        "id": "warsaw_poland", 
         "name": "Warsaw"
       }, 
       "type": "Feature"
@@ -2476,8 +2476,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "wroclaw_poland", 
       "properties": {
+        "id": "wroclaw_poland", 
         "name": "Wroclaw"
       }, 
       "type": "Feature"
@@ -2510,8 +2510,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "zagreb_croatia", 
       "properties": {
+        "id": "zagreb_croatia", 
         "name": "Zagreb"
       }, 
       "type": "Feature"
@@ -2544,8 +2544,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "adana_turkey", 
       "properties": {
+        "id": "adana_turkey", 
         "name": "Adana"
       }, 
       "type": "Feature"
@@ -2578,8 +2578,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "amman_jordan", 
       "properties": {
+        "id": "amman_jordan", 
         "name": "Amman"
       }, 
       "type": "Feature"
@@ -2612,8 +2612,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "baghdad_iraq", 
       "properties": {
+        "id": "baghdad_iraq", 
         "name": "Baghdad"
       }, 
       "type": "Feature"
@@ -2646,8 +2646,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "doha_qatar", 
       "properties": {
+        "id": "doha_qatar", 
         "name": "Doha"
       }, 
       "type": "Feature"
@@ -2680,8 +2680,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dubai_abu-dhabi", 
       "properties": {
+        "id": "dubai_abu-dhabi", 
         "name": "Dubai"
       }, 
       "type": "Feature"
@@ -2714,8 +2714,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "izmir_turkey", 
       "properties": {
+        "id": "izmir_turkey", 
         "name": "Izmir"
       }, 
       "type": "Feature"
@@ -2748,8 +2748,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "jeddah_saudi-arabia", 
       "properties": {
+        "id": "jeddah_saudi-arabia", 
         "name": "Jeddah"
       }, 
       "type": "Feature"
@@ -2782,8 +2782,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "jerusalem_israel", 
       "properties": {
+        "id": "jerusalem_israel", 
         "name": "Jerusalem"
       }, 
       "type": "Feature"
@@ -2816,8 +2816,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "riyadh_saudi-arabia", 
       "properties": {
+        "id": "riyadh_saudi-arabia", 
         "name": "Riyadh"
       }, 
       "type": "Feature"
@@ -2850,8 +2850,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "tehran_iran", 
       "properties": {
+        "id": "tehran_iran", 
         "name": "Tehran"
       }, 
       "type": "Feature"
@@ -2884,8 +2884,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "tel-aviv_israel", 
       "properties": {
+        "id": "tel-aviv_israel", 
         "name": "Tel Aviv"
       }, 
       "type": "Feature"
@@ -2918,8 +2918,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "albany_new-york", 
       "properties": {
+        "id": "albany_new-york", 
         "name": "Albany"
       }, 
       "type": "Feature"
@@ -2952,8 +2952,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "atlanta_georgia", 
       "properties": {
+        "id": "atlanta_georgia", 
         "name": "Atlanta"
       }, 
       "type": "Feature"
@@ -2986,8 +2986,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "austin_texas", 
       "properties": {
+        "id": "austin_texas", 
         "name": "Austin"
       }, 
       "type": "Feature"
@@ -3020,8 +3020,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "boston_massachusetts", 
       "properties": {
+        "id": "boston_massachusetts", 
         "name": "Boston"
       }, 
       "type": "Feature"
@@ -3054,8 +3054,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "brooklyn_new-york", 
       "properties": {
+        "id": "brooklyn_new-york", 
         "name": "Brooklyn"
       }, 
       "type": "Feature"
@@ -3088,8 +3088,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "calgary_canada", 
       "properties": {
+        "id": "calgary_canada", 
         "name": "Calgary"
       }, 
       "type": "Feature"
@@ -3122,8 +3122,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "chicago_illinois", 
       "properties": {
+        "id": "chicago_illinois", 
         "name": "Chicago"
       }, 
       "type": "Feature"
@@ -3156,8 +3156,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "cleveland_ohio", 
       "properties": {
+        "id": "cleveland_ohio", 
         "name": "Cleveland"
       }, 
       "type": "Feature"
@@ -3190,8 +3190,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dallas_texas", 
       "properties": {
+        "id": "dallas_texas", 
         "name": "Dallas"
       }, 
       "type": "Feature"
@@ -3224,8 +3224,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dc-baltimore_maryland", 
       "properties": {
+        "id": "dc-baltimore_maryland", 
         "name": "DC/Baltimore"
       }, 
       "type": "Feature"
@@ -3258,8 +3258,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "denver-boulder_colorado", 
       "properties": {
+        "id": "denver-boulder_colorado", 
         "name": "Denver/Boulder"
       }, 
       "type": "Feature"
@@ -3292,8 +3292,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "detroit_michigan", 
       "properties": {
+        "id": "detroit_michigan", 
         "name": "Detroit"
       }, 
       "type": "Feature"
@@ -3326,8 +3326,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "edmonton_canada", 
       "properties": {
+        "id": "edmonton_canada", 
         "name": "Edmonton"
       }, 
       "type": "Feature"
@@ -3360,8 +3360,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "hampton-roads_virginia", 
       "properties": {
+        "id": "hampton-roads_virginia", 
         "name": "Hampton Roads"
       }, 
       "type": "Feature"
@@ -3394,8 +3394,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "honolulu_hawaii", 
       "properties": {
+        "id": "honolulu_hawaii", 
         "name": "Honolulu"
       }, 
       "type": "Feature"
@@ -3428,8 +3428,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "houston_texas", 
       "properties": {
+        "id": "houston_texas", 
         "name": "Houston"
       }, 
       "type": "Feature"
@@ -3462,8 +3462,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "kansas-city-lawrence-topeka_kansas", 
       "properties": {
+        "id": "kansas-city-lawrence-topeka_kansas", 
         "name": "Kansas City/Lawrence/Topeka"
       }, 
       "type": "Feature"
@@ -3496,8 +3496,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "la-habana_cuba", 
       "properties": {
+        "id": "la-habana_cuba", 
         "name": "La Habana"
       }, 
       "type": "Feature"
@@ -3530,8 +3530,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "las-vegas_nevada", 
       "properties": {
+        "id": "las-vegas_nevada", 
         "name": "Las Vegas"
       }, 
       "type": "Feature"
@@ -3564,8 +3564,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "los-angeles_california", 
       "properties": {
+        "id": "los-angeles_california", 
         "name": "Los Angeles"
       }, 
       "type": "Feature"
@@ -3598,8 +3598,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "mexico-city_mexico", 
       "properties": {
+        "id": "mexico-city_mexico", 
         "name": "Mexico City"
       }, 
       "type": "Feature"
@@ -3632,8 +3632,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "miami_florida", 
       "properties": {
+        "id": "miami_florida", 
         "name": "Miami"
       }, 
       "type": "Feature"
@@ -3666,8 +3666,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "minneapolis-saint-paul_minnesota", 
       "properties": {
+        "id": "minneapolis-saint-paul_minnesota", 
         "name": "Minneapolis/Saint Paul"
       }, 
       "type": "Feature"
@@ -3700,8 +3700,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "montreal_canada", 
       "properties": {
+        "id": "montreal_canada", 
         "name": "Montreal"
       }, 
       "type": "Feature"
@@ -3734,8 +3734,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "nashville_tennessee", 
       "properties": {
+        "id": "nashville_tennessee", 
         "name": "Nashville"
       }, 
       "type": "Feature"
@@ -3768,8 +3768,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "new-orleans_louisiana", 
       "properties": {
+        "id": "new-orleans_louisiana", 
         "name": "New Orleans"
       }, 
       "type": "Feature"
@@ -3802,8 +3802,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "new-york_new-york", 
       "properties": {
+        "id": "new-york_new-york", 
         "name": "New York"
       }, 
       "type": "Feature"
@@ -3836,8 +3836,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "ottawa_canada", 
       "properties": {
+        "id": "ottawa_canada", 
         "name": "Ottawa"
       }, 
       "type": "Feature"
@@ -3870,8 +3870,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "philadelphia_pennsylvania", 
       "properties": {
+        "id": "philadelphia_pennsylvania", 
         "name": "Philadelphia"
       }, 
       "type": "Feature"
@@ -3904,8 +3904,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "phoenix_arizona", 
       "properties": {
+        "id": "phoenix_arizona", 
         "name": "Phoenix"
       }, 
       "type": "Feature"
@@ -3938,8 +3938,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "pittsburgh_pennsylvania", 
       "properties": {
+        "id": "pittsburgh_pennsylvania", 
         "name": "Pittsburgh"
       }, 
       "type": "Feature"
@@ -3972,8 +3972,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "port-au-prince_haiti", 
       "properties": {
+        "id": "port-au-prince_haiti", 
         "name": "Port au Prince"
       }, 
       "type": "Feature"
@@ -4006,8 +4006,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "portland_oregon", 
       "properties": {
+        "id": "portland_oregon", 
         "name": "Portland"
       }, 
       "type": "Feature"
@@ -4040,8 +4040,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "raleigh_north-carolina", 
       "properties": {
+        "id": "raleigh_north-carolina", 
         "name": "Raleigh"
       }, 
       "type": "Feature"
@@ -4074,8 +4074,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "saint-louis_missouri", 
       "properties": {
+        "id": "saint-louis_missouri", 
         "name": "Saint Louis"
       }, 
       "type": "Feature"
@@ -4108,8 +4108,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "san-antonio_texas", 
       "properties": {
+        "id": "san-antonio_texas", 
         "name": "San Antonio"
       }, 
       "type": "Feature"
@@ -4142,8 +4142,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "san-diego-tijuana_mexico", 
       "properties": {
+        "id": "san-diego-tijuana_mexico", 
         "name": "San Diego/Tijuana"
       }, 
       "type": "Feature"
@@ -4176,8 +4176,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "san-diego_california", 
       "properties": {
+        "id": "san-diego_california", 
         "name": "San Diego"
       }, 
       "type": "Feature"
@@ -4210,8 +4210,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "san-francisco-bay_california", 
       "properties": {
+        "id": "san-francisco-bay_california", 
         "name": "San Francisco Bay"
       }, 
       "type": "Feature"
@@ -4244,8 +4244,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "san-francisco_california", 
       "properties": {
+        "id": "san-francisco_california", 
         "name": "San Francisco"
       }, 
       "type": "Feature"
@@ -4278,8 +4278,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "san-jose_california", 
       "properties": {
+        "id": "san-jose_california", 
         "name": "San Jose"
       }, 
       "type": "Feature"
@@ -4312,8 +4312,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "seattle_washington", 
       "properties": {
+        "id": "seattle_washington", 
         "name": "Seattle"
       }, 
       "type": "Feature"
@@ -4346,8 +4346,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "tampa_florida", 
       "properties": {
+        "id": "tampa_florida", 
         "name": "Tampa"
       }, 
       "type": "Feature"
@@ -4380,8 +4380,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "toronto_canada", 
       "properties": {
+        "id": "toronto_canada", 
         "name": "Toronto"
       }, 
       "type": "Feature"
@@ -4414,8 +4414,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "vancouver_canada", 
       "properties": {
+        "id": "vancouver_canada", 
         "name": "Vancouver"
       }, 
       "type": "Feature"
@@ -4448,8 +4448,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "victoria_canada", 
       "properties": {
+        "id": "victoria_canada", 
         "name": "Victoria"
       }, 
       "type": "Feature"
@@ -4482,8 +4482,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "aarhus_denmark", 
       "properties": {
+        "id": "aarhus_denmark", 
         "name": "Aarhus"
       }, 
       "type": "Feature"
@@ -4516,8 +4516,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "gothenburg_sweden", 
       "properties": {
+        "id": "gothenburg_sweden", 
         "name": "Gothenburg"
       }, 
       "type": "Feature"
@@ -4550,8 +4550,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "helsinki_finland", 
       "properties": {
+        "id": "helsinki_finland", 
         "name": "Helsinki"
       }, 
       "type": "Feature"
@@ -4584,8 +4584,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "oslo_norway", 
       "properties": {
+        "id": "oslo_norway", 
         "name": "Oslo"
       }, 
       "type": "Feature"
@@ -4618,8 +4618,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "reykjavik_iceland", 
       "properties": {
+        "id": "reykjavik_iceland", 
         "name": "Reykjavik"
       }, 
       "type": "Feature"
@@ -4652,8 +4652,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "stockholm_sweden", 
       "properties": {
+        "id": "stockholm_sweden", 
         "name": "Stockholm"
       }, 
       "type": "Feature"
@@ -4686,8 +4686,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "adelaide_australia", 
       "properties": {
+        "id": "adelaide_australia", 
         "name": "Adelaide"
       }, 
       "type": "Feature"
@@ -4720,8 +4720,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "auckland_new-zealand", 
       "properties": {
+        "id": "auckland_new-zealand", 
         "name": "Auckland"
       }, 
       "type": "Feature"
@@ -4754,8 +4754,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bali_indonesia", 
       "properties": {
+        "id": "bali_indonesia", 
         "name": "Bali"
       }, 
       "type": "Feature"
@@ -4788,8 +4788,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bandung_indonesia", 
       "properties": {
+        "id": "bandung_indonesia", 
         "name": "Bandung"
       }, 
       "type": "Feature"
@@ -4822,8 +4822,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "brisbane_australia", 
       "properties": {
+        "id": "brisbane_australia", 
         "name": "Brisbane"
       }, 
       "type": "Feature"
@@ -4856,8 +4856,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "jakarta_indonesia", 
       "properties": {
+        "id": "jakarta_indonesia", 
         "name": "Jakarta"
       }, 
       "type": "Feature"
@@ -4890,8 +4890,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "melbourne_australia", 
       "properties": {
+        "id": "melbourne_australia", 
         "name": "Melbourne"
       }, 
       "type": "Feature"
@@ -4924,8 +4924,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "perth_australia", 
       "properties": {
+        "id": "perth_australia", 
         "name": "Perth"
       }, 
       "type": "Feature"
@@ -4958,8 +4958,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "sydney_australia", 
       "properties": {
+        "id": "sydney_australia", 
         "name": "Sydney"
       }, 
       "type": "Feature"
@@ -4992,8 +4992,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bogota_colombia", 
       "properties": {
+        "id": "bogota_colombia", 
         "name": "Bogota"
       }, 
       "type": "Feature"
@@ -5026,8 +5026,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "brasilia_brazil", 
       "properties": {
+        "id": "brasilia_brazil", 
         "name": "Brasilia"
       }, 
       "type": "Feature"
@@ -5060,8 +5060,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "buenos-aires_argentina", 
       "properties": {
+        "id": "buenos-aires_argentina", 
         "name": "Buenos Aires"
       }, 
       "type": "Feature"
@@ -5094,8 +5094,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "caracas_venezuela", 
       "properties": {
+        "id": "caracas_venezuela", 
         "name": "Caracas"
       }, 
       "type": "Feature"
@@ -5128,8 +5128,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "lima_peru", 
       "properties": {
+        "id": "lima_peru", 
         "name": "Lima"
       }, 
       "type": "Feature"
@@ -5162,8 +5162,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "medellin_colombia", 
       "properties": {
+        "id": "medellin_colombia", 
         "name": "Medellin"
       }, 
       "type": "Feature"
@@ -5196,8 +5196,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "rio-de-janeiro_brazil", 
       "properties": {
+        "id": "rio-de-janeiro_brazil", 
         "name": "Rio de Janeiro"
       }, 
       "type": "Feature"
@@ -5230,8 +5230,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "santiago_chile", 
       "properties": {
+        "id": "santiago_chile", 
         "name": "Santiago"
       }, 
       "type": "Feature"
@@ -5264,8 +5264,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "sao-paulo_brazil", 
       "properties": {
+        "id": "sao-paulo_brazil", 
         "name": "Sao Paulo"
       }, 
       "type": "Feature"
@@ -5298,8 +5298,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "acoruna_spain", 
       "properties": {
+        "id": "acoruna_spain", 
         "name": "Acoruna"
       }, 
       "type": "Feature"
@@ -5332,8 +5332,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "athens_greece", 
       "properties": {
+        "id": "athens_greece", 
         "name": "Athens"
       }, 
       "type": "Feature"
@@ -5366,8 +5366,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "barcelona_spain", 
       "properties": {
+        "id": "barcelona_spain", 
         "name": "Barcelona"
       }, 
       "type": "Feature"
@@ -5400,8 +5400,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bologna_italy", 
       "properties": {
+        "id": "bologna_italy", 
         "name": "Bologna"
       }, 
       "type": "Feature"
@@ -5434,8 +5434,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "florence_italy", 
       "properties": {
+        "id": "florence_italy", 
         "name": "Florence"
       }, 
       "type": "Feature"
@@ -5468,8 +5468,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "genoa_italy", 
       "properties": {
+        "id": "genoa_italy", 
         "name": "Genoa"
       }, 
       "type": "Feature"
@@ -5502,8 +5502,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "lisbon_portugal", 
       "properties": {
+        "id": "lisbon_portugal", 
         "name": "Lisbon"
       }, 
       "type": "Feature"
@@ -5536,8 +5536,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "madrid_spain", 
       "properties": {
+        "id": "madrid_spain", 
         "name": "Madrid"
       }, 
       "type": "Feature"
@@ -5570,8 +5570,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "milan_italy", 
       "properties": {
+        "id": "milan_italy", 
         "name": "Milan"
       }, 
       "type": "Feature"
@@ -5604,8 +5604,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "naples_italy", 
       "properties": {
+        "id": "naples_italy", 
         "name": "Naples"
       }, 
       "type": "Feature"
@@ -5638,8 +5638,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "porto_portugal", 
       "properties": {
+        "id": "porto_portugal", 
         "name": "Porto"
       }, 
       "type": "Feature"
@@ -5672,8 +5672,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "rome_italy", 
       "properties": {
+        "id": "rome_italy", 
         "name": "Rome"
       }, 
       "type": "Feature"
@@ -5706,8 +5706,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "thessaloniki_greece", 
       "properties": {
+        "id": "thessaloniki_greece", 
         "name": "Thessaloniki"
       }, 
       "type": "Feature"
@@ -5740,8 +5740,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "valencia_spain", 
       "properties": {
+        "id": "valencia_spain", 
         "name": "Valencia"
       }, 
       "type": "Feature"
@@ -5774,8 +5774,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "venice_italy", 
       "properties": {
+        "id": "venice_italy", 
         "name": "Venice"
       }, 
       "type": "Feature"
@@ -5808,8 +5808,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "amsterdam_netherlands", 
       "properties": {
+        "id": "amsterdam_netherlands", 
         "name": "Amsterdam"
       }, 
       "type": "Feature"
@@ -5842,8 +5842,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "antwerp_belgium", 
       "properties": {
+        "id": "antwerp_belgium", 
         "name": "Antwerp"
       }, 
       "type": "Feature"
@@ -5876,8 +5876,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "belfast_ireland", 
       "properties": {
+        "id": "belfast_ireland", 
         "name": "Belfast"
       }, 
       "type": "Feature"
@@ -5910,8 +5910,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "berlin_germany", 
       "properties": {
+        "id": "berlin_germany", 
         "name": "Berlin"
       }, 
       "type": "Feature"
@@ -5944,8 +5944,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bern_switzerland", 
       "properties": {
+        "id": "bern_switzerland", 
         "name": "Bern"
       }, 
       "type": "Feature"
@@ -5978,8 +5978,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "birmingham_england", 
       "properties": {
+        "id": "birmingham_england", 
         "name": "Birmingham"
       }, 
       "type": "Feature"
@@ -6012,8 +6012,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "bordeaux_france", 
       "properties": {
+        "id": "bordeaux_france", 
         "name": "Bordeaux"
       }, 
       "type": "Feature"
@@ -6046,8 +6046,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "brussels_belgium", 
       "properties": {
+        "id": "brussels_belgium", 
         "name": "Brussels"
       }, 
       "type": "Feature"
@@ -6080,8 +6080,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "cardiff-newport-bristol-bath_england", 
       "properties": {
+        "id": "cardiff-newport-bristol-bath_england", 
         "name": "Cardiff/Newport/Bristol/Bath"
       }, 
       "type": "Feature"
@@ -6114,8 +6114,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "cologne_germany", 
       "properties": {
+        "id": "cologne_germany", 
         "name": "Cologne"
       }, 
       "type": "Feature"
@@ -6148,8 +6148,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "copenhagen_denmark", 
       "properties": {
+        "id": "copenhagen_denmark", 
         "name": "Copenhagen"
       }, 
       "type": "Feature"
@@ -6182,8 +6182,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dresden_germany", 
       "properties": {
+        "id": "dresden_germany", 
         "name": "Dresden"
       }, 
       "type": "Feature"
@@ -6216,8 +6216,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "dublin_ireland", 
       "properties": {
+        "id": "dublin_ireland", 
         "name": "Dublin"
       }, 
       "type": "Feature"
@@ -6250,8 +6250,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "duesseldorf_germany", 
       "properties": {
+        "id": "duesseldorf_germany", 
         "name": "Duesseldorf"
       }, 
       "type": "Feature"
@@ -6284,8 +6284,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "edinburgh_scotland", 
       "properties": {
+        "id": "edinburgh_scotland", 
         "name": "Edinburgh"
       }, 
       "type": "Feature"
@@ -6318,8 +6318,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "frankfurt_germany", 
       "properties": {
+        "id": "frankfurt_germany", 
         "name": "Frankfurt"
       }, 
       "type": "Feature"
@@ -6352,8 +6352,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "glasgow_scotland", 
       "properties": {
+        "id": "glasgow_scotland", 
         "name": "Glasgow"
       }, 
       "type": "Feature"
@@ -6386,8 +6386,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "hamburg_germany", 
       "properties": {
+        "id": "hamburg_germany", 
         "name": "Hamburg"
       }, 
       "type": "Feature"
@@ -6420,8 +6420,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "liverpool_england", 
       "properties": {
+        "id": "liverpool_england", 
         "name": "Liverpool"
       }, 
       "type": "Feature"
@@ -6454,8 +6454,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "london_england", 
       "properties": {
+        "id": "london_england", 
         "name": "London"
       }, 
       "type": "Feature"
@@ -6488,8 +6488,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "lyon_france", 
       "properties": {
+        "id": "lyon_france", 
         "name": "Lyon"
       }, 
       "type": "Feature"
@@ -6522,8 +6522,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "manchester_england", 
       "properties": {
+        "id": "manchester_england", 
         "name": "Manchester"
       }, 
       "type": "Feature"
@@ -6556,8 +6556,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "marseille_france", 
       "properties": {
+        "id": "marseille_france", 
         "name": "Marseille"
       }, 
       "type": "Feature"
@@ -6590,8 +6590,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "munich_germany", 
       "properties": {
+        "id": "munich_germany", 
         "name": "Munich"
       }, 
       "type": "Feature"
@@ -6624,8 +6624,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "paris_france", 
       "properties": {
+        "id": "paris_france", 
         "name": "Paris"
       }, 
       "type": "Feature"
@@ -6658,8 +6658,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "rotterdam_netherlands", 
       "properties": {
+        "id": "rotterdam_netherlands", 
         "name": "Rotterdam"
       }, 
       "type": "Feature"
@@ -6692,8 +6692,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "southampton_england", 
       "properties": {
+        "id": "southampton_england", 
         "name": "Southampton"
       }, 
       "type": "Feature"
@@ -6726,8 +6726,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "strasbourg_france", 
       "properties": {
+        "id": "strasbourg_france", 
         "name": "Strasbourg"
       }, 
       "type": "Feature"
@@ -6760,8 +6760,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "turin_italy", 
       "properties": {
+        "id": "turin_italy", 
         "name": "Turin"
       }, 
       "type": "Feature"
@@ -6794,8 +6794,8 @@
         ], 
         "type": "Polygon"
       }, 
-      "id": "zurich_switzerland", 
       "properties": {
+        "id": "zurich_switzerland", 
         "name": "Zurich"
       }, 
       "type": "Feature"

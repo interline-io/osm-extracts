@@ -10,10 +10,10 @@ def load_cities(path):
     features = []
     for city in cities:
         x1, y1, x2, y2 = [float(city['bbox'][k]) for k in ('left', 'bottom', 'right', 'top')]
-        feature = dict(type='Feature', id=city['id'])
+        feature = dict(type='Feature')
         feature['geometry'] = dict(type='Polygon')
         feature['geometry']['coordinates'] = [[[x1, y1], [x1, y2], [x2, y2], [x2, y1], [x1, y1]]]
-        feature['properties'] = dict(name=city['name'])
+        feature['properties'] = dict(id=city['id'], name=city['name'])
         features.append(feature)
     return dict(type='FeatureCollection', features=features)
 
