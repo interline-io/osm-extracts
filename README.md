@@ -6,7 +6,7 @@ This repository contains [a GeoJSON file](cities.geojson) that defines the bound
 
 We welcome pull requests to add new regions or tweak existing ones. When proposing changes, please keep in mind that this service is meant to serve as many users as possible. We unfortunately do not have resources to create extracts for every possible slice of the world. 
 
-If your change cannot be accepted, we suggest you use [PlanetUtils](https://github.com/interline-io/planetutils) to generate your owm OSM extracts on your own local computer or server.
+If your change cannot be accepted, we suggest you use [PlanetUtils](https://github.com/interline-io/planetutils) to generate your own OSM extracts on your own local computer or server.
 
 ## History
 
