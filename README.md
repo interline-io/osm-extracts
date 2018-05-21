@@ -1,6 +1,6 @@
 # OSM Extracts
 
-This repository contains [a GeoJSON file](cities.geojson) that defines the bounding boxes for the cities and regions including the [OSM Extracts by Interline](https://www.interline.io/osm/extracts/) service.
+This repository contains [a GeoJSON file](cities.json) that defines the bounding boxes for the cities and regions including the [OSM Extracts by Interline](https://www.interline.io/osm/extracts/) service.
 
 ## Propose changes
 
