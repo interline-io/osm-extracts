@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/interline-io/osm-extracts.svg?style=svg)](https://circleci.com/gh/interline-io/osm-extracts)
+
 # OSM Extracts
 
 This repository contains [a GeoJSON file](cities.json) that defines the bounding boxes for the cities and regions including the [OSM Extracts by Interline](https://www.interline.io/osm/extracts/) service.
@@ -10,7 +12,7 @@ If your change cannot be accepted, we suggest you use [PlanetUtils](https://gith
 
 ## History
 
-OSM Extracts is inspired by Michal Migurski's [Extractotron](https://github.com/migurski/Extractotron) and Mapzen's [Metro Extracts](https://github.com/mapzen/metro-extracts) (both now defunct). This GeoJSON file was originally created from the [Mapzen Metro Extracts cities.json file](https://github.com/mapzen/metro-extracts/blob/master/cities.json) using a [conversion script](convert_cities.py). We've preserved the commit history of that file, so you can see [all the folks who have contributed to defining these regions over time](https://github.com/interline-io/osm-extracts/commits/master/cities.json).
+OSM Extracts is inspired by Michal Migurski's [Extractotron](https://github.com/migurski/Extractotron) and Mapzen's [Metro Extracts](https://github.com/mapzen/metro-extracts) (both now defunct). This GeoJSON file was originally created from the [Mapzen Metro Extracts cities.json file](https://github.com/mapzen/metro-extracts/blob/master/cities.json) using a [conversion script](scripts/convert_cities.py). We've preserved the commit history of that file, so you can see [all the folks who have contributed to defining these regions over time](https://github.com/interline-io/osm-extracts/commits/master/cities.json).
 
 ## Licenses
 

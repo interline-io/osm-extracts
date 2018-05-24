@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "description": "GeoJSON file of cities/regions for OSM Extracts",
+  "type": "object",
+  "properties": {
+      "features": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "geometry": {
+              "type": "object",
+              "properties": {
+                "coordinates": { "type": "array" },
+                "type": {
+                  "type": "string",
+                  "enum": ["Polygon"]
+                }
+              }
+            },
+            "properties": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 255,
+                  "pattern": "^[a-z0-9_-]+$"
+                },
+                "name": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 255,
+                  "pattern": "^[a-zA-Z0-9- \/]+$"
+                }
+              },
+              "required": ["id", "name"]
+            },
+            "type": {
+              "type": "string",
+              "enum": ["Feature"]
+            }
+          },
+          "required": ["geometry", "properties", "type"]
+        }
+      }
+  },
+  "required": ["features"]
+}
