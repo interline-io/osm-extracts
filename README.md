@@ -10,7 +10,7 @@ If your change cannot be accepted, we suggest you use [PlanetUtils](https://gith
 
 ## History
 
-OSM Extracts is inspired by Michal Migurski's [Extractotron](https://github.com/migurski/Extractotron) and Mapzen's [Metro Extracts](https://github.com/mapzen/metro-extracts) (both now defunct). This GeoJSON file was originally created from the [Mapzen Metro Extracts cities.json file](https://github.com/mapzen/metro-extracts/blob/master/cities.json) using a [conversion script](convert_cities.py). Here's [the history](https://github.com/mapzen/metro-extracts/commits/master/cities.json) of all the folks who contributed to that file over time.
+OSM Extracts is inspired by Michal Migurski's [Extractotron](https://github.com/migurski/Extractotron) and Mapzen's [Metro Extracts](https://github.com/mapzen/metro-extracts) (both now defunct). This GeoJSON file was originally created from the [Mapzen Metro Extracts cities.json file](https://github.com/mapzen/metro-extracts/blob/master/cities.json) using a [conversion script](convert_cities.py). We've preserved the commit history of that file, so you can see [all the folks who have contributed to defining these regions over time](https://github.com/interline-io/osm-extracts/commits/master/cities.json).
 
 ## Licenses
 
