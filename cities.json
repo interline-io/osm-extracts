@@ -63,6 +63,7 @@
           "type": "Polygon"
         }, 
         "properties": {
+          "id": "abuja_nigeria", 
           "name": "Abuja"
         }, 
         "type": "Feature"
