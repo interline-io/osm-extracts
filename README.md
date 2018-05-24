@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/interline-io/osm-extracts.svg?style=svg)](https://circleci.com/gh/interline-io/osm-extracts)
+
 # OSM Extracts
 
 This repository contains [a GeoJSON file](cities.json) that defines the bounding boxes for the cities and regions including the [OSM Extracts by Interline](https://www.interline.io/osm/extracts/) service.
