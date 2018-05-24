@@ -33,7 +33,8 @@
                   "maxLength": 255,
                   "pattern": "^[a-zA-Z0-9- \/]+$"
                 }
-              }
+              },
+              "required": ["id", "name"]
             },
             "type": {
               "type": "string",
