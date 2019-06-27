@@ -5,5 +5,4 @@ jobs:
       - image: circleci/node:8
     steps:
       - checkout
-      - run: sudo npm install -g ajv-cli
-      - run: ajv test -s cities-schema.json -d cities.json --valid --verbose
+      - run: npx ajv-cli test -s cities-schema.json -d cities.json --valid --verbose
