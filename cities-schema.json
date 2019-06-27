@@ -14,7 +14,7 @@
                 "coordinates": { "type": "array" },
                 "type": {
                   "type": "string",
-                  "enum": ["Polygon"]
+                  "enum": ["Polygon", "MultiPolygon"]
                 }
               }
             },
