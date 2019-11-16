@@ -7570,7 +7570,7 @@
         "name": "Switzerland"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "Polygon"
         "coordinates": [
           [
             [
