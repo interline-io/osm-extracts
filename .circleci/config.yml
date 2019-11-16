@@ -1,8 +1,0 @@
-version: 2
-jobs:
-  build:
-    docker:
-      - image: circleci/node:8
-    steps:
-      - checkout
-      - run: npx ajv-cli test -s cities-schema.json -d cities.json --valid --verbose
