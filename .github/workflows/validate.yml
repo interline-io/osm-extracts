@@ -1,0 +1,10 @@
+name: Validate
+on: [push]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Validate that cities GeoJSON file matches JSON schema
+      run: |
+        npx ajv-cli test -s cities-schema.json -d cities.json --valid --verbose
