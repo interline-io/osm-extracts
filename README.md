@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/interline-io/osm-extracts.svg?style=svg)](https://circleci.com/gh/interline-io/osm-extracts)
+![Validate](https://github.com/interline-io/osm-extracts/workflows/Validate/badge.svg)
 
 # OSM Extracts
 
