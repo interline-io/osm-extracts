@@ -1154,6 +1154,40 @@
         "name": "Karachi"
       },
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              76.158,
+              9.681
+            ],
+            [
+              76.501,
+              9.681
+            ],
+            [
+              76.501,
+              10.201
+            ],
+            [
+              76.158,
+              10.201
+            ],
+            [
+              76.158,
+              9.681
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "kochi_india",
+        "name": "Kochi"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
