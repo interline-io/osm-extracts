@@ -7748,6 +7748,36 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "us-willamette-valley",
+        "name": "Greater Willamette Valley - Oregon and Washington states"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.392657, 43.259612
+            ],
+            [
+              -122.319674, 43.259612
+            ],
+            [
+              -122.319674, 46.554198
+
+            ],
+            [
+              -124.392657, 46.554198
+            ],
+            [
+              -124.392657, 43.259612
+            ]
+          ]
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
