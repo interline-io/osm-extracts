@@ -7753,7 +7753,7 @@
       "type": "Feature",
       "properties": {
         "id": "us-willamette-valley",
-        "name": "Greater Willamette Valley (Oregon and Washington)"
+        "name": "Greater Willamette Valley - Oregon and Washington states"
       },
       "geometry": {
         "type": "Polygon",
