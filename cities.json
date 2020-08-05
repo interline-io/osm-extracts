@@ -6698,8 +6698,8 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "nuremberg_germany",
-        "name": "Nuremberg"
+        "id": "paris_france",
+        "name": "Paris"
       },
       "type": "Feature"
     },
@@ -6732,8 +6732,8 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "paris_france",
-        "name": "Paris"
+        "id": "nuremberg_germany",
+        "name": "Nuremberg"
       },
       "type": "Feature"
     },
