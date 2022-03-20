@@ -7856,3 +7856,37 @@
   ],
   "type": "FeatureCollection"
 }
+
+{
+      "type": "Feature",
+      "properties": {
+        "id": "ecuador",
+        "name": "Ecuador"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.861522, 1.814954
+            ],
+            [
+              -74.959948, 1.617055
+            ],
+            [
+              -81.243875, -4.952032
+
+            ],
+            [
+              -75.391828, -4.779006
+            ],
+            [
+              -80.861522, 1.814954
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
