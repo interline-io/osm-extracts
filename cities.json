@@ -7886,6 +7886,25 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bm",
+        "name": "Bermuda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-65.1723, 32.0081],
+            [-64.3922, 32.0081],
+            [-64.3922, 32.6116],
+            [-65.1723, 32.6116],
+            [-65.1723, 32.0081]
+          ]
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
